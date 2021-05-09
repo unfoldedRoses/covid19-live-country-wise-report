@@ -54,3 +54,20 @@ body {
     flex-direction: column;
   }
 }
+@media (max-width: 990px) {
+  .app {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 557px) {
+  .app {
+    flex-direction: column;
+  }
+}
+@media (max-width: 359px) {
+  .app {
+    flex-direction: column;
+  }
+}
+
